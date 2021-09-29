@@ -3,7 +3,7 @@
         "strict": true,        
         "module": "es6",
         "moduleResolution": "node",
-        "target": "es2017",
+        "target": "es2021",
         "declaration": false,
         "noEmitOnError": true,
         "sourceMap": true,
